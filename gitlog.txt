@@ -1,0 +1,17 @@
+*   7134b14 Merge tag 'ajuste-cep-sorocaba' into develop
+|\  
+| *   91472c2 Merge branch 'hotfix/ajuste-cep-sorocaba'
+| |\  
+| | * bb95dbe Corrige bug urgente no CEP de Sorocaba
+| |/  
+* | 335bf81 Merge tag 'v1.0.0' into develop
+|\| 
+| *   e66a7e0 Merge branch 'release/v1.0.0'
+| |\  
+| | * 9cf3c6e Adiciona documentacao de CEPs no README
+| | * a2785fa Adiciona documentacao de CEPs no README
+| |/  
+|/|   
+* | 513d8bd Implementa validacao de CEP com testes
+|/  
+* d26871f Initial commit
