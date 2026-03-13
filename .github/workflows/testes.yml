@@ -28,4 +28,4 @@ jobs:
 
       - name: Rodar testes com pytest
         run: |
-          pytest test_validator.py -v
+          pytest test_cadastro.py -v
