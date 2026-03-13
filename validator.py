@@ -25,3 +25,5 @@ def validar_cep(cidade, cep):
         min_cep, max_cep = FAIXAS_CEP[cidade]
         return min_cep <= cep_limpo <= max_cep
     return False
+
+#fingindo
